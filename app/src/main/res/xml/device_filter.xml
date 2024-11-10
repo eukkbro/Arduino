@@ -1,0 +1,3 @@
+<resources>
+    <usb-device vendor-id="9025" product-id="67" /> <!-- Arduino Uno의 예시 Vendor/Product ID -->
+</resources>

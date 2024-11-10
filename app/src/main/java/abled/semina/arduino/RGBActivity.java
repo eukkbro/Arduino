@@ -15,6 +15,8 @@ import com.hoho.android.usbserial.driver.UsbSerialProber;
 import java.io.IOException;
 import java.util.List;
 
+/**
+ * RGB 모듈 제어하는 액티비티 */
 public class RGBActivity extends AppCompatActivity {
 
     private final String TAG = "시리얼 통신";

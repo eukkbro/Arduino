@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Arduino</string>
+    <string name="app_name">Stepper Motor Control</string>
+
+    <!-- 방향 선택 항목 -->
+    <string-array name="directions">
+        <item>Clockwise</item>
+        <item>Counterclockwise</item>
+    </string-array>
+
+    <!-- 속도 선택 항목 -->
+    <string-array name="speeds">
+        <item>Slow</item>
+        <item>Medium</item>
+        <item>Fast</item>
+    </string-array>
 </resources>
